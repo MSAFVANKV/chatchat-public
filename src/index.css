@@ -16,3 +16,9 @@ body{
   overflow: hidden;
 }
 
+j{
+  display: grid;
+  grid-template-columns: 10% 75% 15%;
+  overflow: hidden;
+  background-color: #000420;
+}
